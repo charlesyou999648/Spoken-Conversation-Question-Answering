@@ -39,12 +39,6 @@ If you found this code/work to be useful in your own research, please considerin
   year={2021}
 }
 
-@article{you2020towards,
-  title={Towards data distillation for end-to-end spoken conversational question answering},
-  author={You, Chenyu and Chen, Nuo and Liu, Fenglin and Yang, Dongchao and Zou, Yuexian},
-  journal={arXiv preprint arXiv:2010.08923},
-  year={2020}
-}
 ```
 
 ## Contact
